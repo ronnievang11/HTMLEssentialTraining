@@ -1,0 +1,12 @@
+.book {
+    background: #369;
+    padding: 16px;
+    width: 250px;
+    color: white;
+    margin-bottom: 16px;
+}
+
+.book h5 {
+    font: 1.2em Arial, sans-serif;
+    margin: 0;
+}
